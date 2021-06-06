@@ -6,3 +6,4 @@ this is the first item
 - more text1
 - and another line1
 - This is another line to be pulled
+this is another line for the stash exercise
